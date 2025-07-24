@@ -45,20 +45,23 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev7007&show_icons=true&theme=tokyonight" alt="Sanjeev's GitHub Stats" width="48%"/>
+  <a href="https://www.linkedin.com/in/sanjeev-s-t/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev7007&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <a href="https://sanjeevst-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev-s-t&show_icons=true&theme=tokyonight" alt="Sanjeev's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev7007&show_icons=true&theme=tokyonight" alt="Sanjeev's GitHub Stats" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-s-t&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev7007&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
 ---
@@ -66,3 +69,4 @@
 <p align="center">
 ✨ Let’s <b>build, learn, and grow stronger together!</b> ✨
 </p>
+
