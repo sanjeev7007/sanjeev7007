@@ -45,14 +45,11 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjeev-s-t/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev7007&show_icons=true&theme=tokyonight" alt="Sanjeev's GitHub Stats" width="48%"/>
   &nbsp;
-  <a href="https://sanjeevst-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev7007&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
+
 
 ---
 
