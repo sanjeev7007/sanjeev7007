@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://sanjeevst-portfolio.netlify.app/">
+  <a href="https://sanjeevstportfolio.website/">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
