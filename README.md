@@ -74,16 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev7007&show_icons=true&theme=tokyonight" alt="Sanjeev's GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev7007&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 <p align="center">
 ✨ Let’s <b>build, learn, and grow stronger together!</b> ✨
 </p>
