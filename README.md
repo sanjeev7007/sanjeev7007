@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sanjeev S T 👋</h1>
 
 <p align="center">
-<b>B.Tech, Artificial Intelligence & Data Science</b><br>
-AI builder · Web developer · Hackathon player · Creator of <b>PowerHouse</b><br>
-💼 <b>Ex-Zoho Intern</b> · 🏆 <b>SIH 2025 Finalist</b> · <b>10+ hackathon wins</b>
+<b>I help students and innovators build and ship winning projects with Claude.</b><br>
+Claude expert · AI builder · Creator of <b>PowerHouse</b><br>
+🏆 <b>10+ hackathon wins</b> · 💼 <b>Ex-Zoho Intern</b> · B.Tech AI & Data Science
 </p>
 
 <p align="center">
@@ -15,28 +15,37 @@ AI builder · Web developer · Hackathon player · Creator of <b>PowerHouse</b><
 
 ---
 
-## 🚀 About me
+## 🚀 What I do
 
-- I build things fast: **AI products, web apps and hardware prototypes**, mostly at hackathons, where an idea has to become a working demo in 24–36 hours.
-- I've worked as an **intern at Zoho**, building software for real users in a product company.
-- I turn what I learn from winning hackathons into **tools other builders can use**, like Claude skills that take you from idea to pitch.
-- I share the journey as **PowerHouse** on Instagram and YouTube: hackathons, AI tools and building in public.
+- I help **students, founders and innovators** go from a rough idea to a **working, winning project**: college projects, startup MVPs, hackathons and competitions.
+- I use **Claude** as a co-founder: picking the right idea, validating the problem, building fast and pitching clearly. Then I package what works into **Claude skills anyone can use**.
+- I've won **10+ hackathons** and interned at **Zoho**, so I know what it takes to ship under pressure and to build for real users.
+- I share all of it as **PowerHouse** on Instagram and YouTube: Claude workflows, AI tools and building in public.
 
 ---
 
-## 🔥 Featured projects
+## ⚡ Featured: PBS — Power Builder Skills
 
-| Project | What it is |
-|---|---|
-| ⚡ [**PBS — Power Builder Skills**](https://github.com/sanjeev7007/power-builder-skills) | Claude skills for hackathons, startups and projects. Starts with the **Power Idea Generator**: a 5-advisor council that turns any problem into the 3 ideas most worth building. |
-| 🆘 [**QuickRescue**](https://github.com/sanjeev7007/QuickRescue---PowerHouse) | Offline disaster communication over a **LoRa mesh network**: wearables send SAFE / HELP / SOS with GPS when mobile networks are down, then sync to a web dashboard when internet returns. |
-| 🏗️ [**Mini Crack Detection**](https://github.com/sanjeev7007/Mini-Crack-Detection) | Real-time structural crack detection with **ESP32 and flex sensors**, showing deformation locations live on a web dashboard. |
-| 📋 [**MERN Task App**](https://github.com/sanjeev7007/mern-task-app) | MERN stack app for managing agents and distributing tasks, with CSV upload and a responsive dashboard. |
-| 💬 [**Sentiment Analyzer**](https://github.com/sanjeev7007/sentiment-analyzer.) | Flask sentiment analysis app with a modern UI. |
+<p>
+<a href="https://github.com/sanjeev7007/power-builder-skills"><b>sanjeev7007/power-builder-skills</b></a><br>
+Free Claude skills for students, startups and innovators: from idea to pitch.
+</p>
+
+- **Power Idea Generator:** paste any problem and a 5-advisor council brainstorms, scores and cuts ideas, then hands you the **top 3 worth building** with build plans.
+- One Markdown file per skill. No code, no API keys, works on the **Claude Free plan**.
+
+👉 [**Get the skills**](https://github.com/sanjeev7007/power-builder-skills)
 
 ---
 
 ## 🛠️ Tech stack
+
+**AI**<br>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,13 +60,6 @@ AI builder · Web developer · Hackathon player · Creator of <b>PowerHouse</b><
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**AI / ML**<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
 ---
 
 ## 🏋️ Beyond code
@@ -69,5 +71,5 @@ Breaking PRs in the gym with the same focus I debug my code. Building body and s
 ---
 
 <p align="center">
-Working on a hackathon or startup idea? <a href="https://www.instagram.com/powerhouse_.18/"><b>DM me on Instagram</b></a> and let's build.
+Building a project, startup or hackathon idea? <a href="https://www.instagram.com/powerhouse_.18/"><b>DM me on Instagram</b></a> and let's ship it.
 </p>
