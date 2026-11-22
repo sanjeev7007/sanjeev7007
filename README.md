@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sanjeev S T 👋</h1>
 
 <p align="center">
-<b>I help students and innovators build and ship winning projects with Claude.</b><br>
-Claude expert · AI builder · Creator of <b>PowerHouse</b><br>
+<b>I help students and innovators build and ship winning projects with AI.</b><br>
+AI & vibe coding expert · Creator of <b>PowerHouse</b><br>
 🏆 <b>10+ hackathon wins</b> · 💼 <b>Ex-Zoho Intern</b> · B.Tech AI & Data Science
 </p>
 
@@ -17,9 +17,9 @@ Claude expert · AI builder · Creator of <b>PowerHouse</b><br>
 ## 🚀 What I do
 
 - I help **students, founders and innovators** go from a rough idea to a **working, winning project**: college projects, startup MVPs, hackathons and competitions.
-- I use **Claude** as a co-founder: picking the right idea, validating the problem, building fast and pitching clearly. Then I package what works into **Claude skills anyone can use**.
+- I **vibe code** with AI tools like **Claude and Gemini** as my co-founders: picking the right idea, validating the problem, building fast and pitching clearly. Then I package what works into **AI skills anyone can use**.
 - I've won **10+ hackathons** and interned at **Zoho**, so I know what it takes to ship under pressure and to build for real users.
-- I share all of it as **PowerHouse** on Instagram and YouTube: Claude workflows, AI tools and building in public.
+- I share all of it as **PowerHouse** on Instagram and YouTube: vibe coding, AI workflows and building in public.
 
 ---
 
