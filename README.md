@@ -3,7 +3,7 @@
 <p align="center">
 <b>B.Tech, Artificial Intelligence & Data Science</b><br>
 AI builder · Web developer · Hackathon player · Creator of <b>PowerHouse</b><br>
-🏆 <b>SIH 2025 Finalist</b> · <b>10+ hackathon wins</b>
+💼 <b>Ex-Zoho Intern</b> · 🏆 <b>SIH 2025 Finalist</b> · <b>10+ hackathon wins</b>
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@ AI builder · Web developer · Hackathon player · Creator of <b>PowerHouse</b><
 ## 🚀 About me
 
 - I build things fast: **AI products, web apps and hardware prototypes**, mostly at hackathons, where an idea has to become a working demo in 24–36 hours.
+- I've worked as an **intern at Zoho**, building software for real users in a product company.
 - I turn what I learn from winning hackathons into **tools other builders can use**, like Claude skills that take you from idea to pitch.
 - I share the journey as **PowerHouse** on Instagram and YouTube: hackathons, AI tools and building in public.
 
@@ -56,11 +57,6 @@ AI builder · Web developer · Hackathon player · Creator of <b>PowerHouse</b><
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-**Hardware / IoT**<br>
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-1A73E8?style=flat-square&logoColor=white)
 
 ---
 
