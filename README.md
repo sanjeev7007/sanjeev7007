@@ -27,11 +27,11 @@ AI & vibe coding expert · Creator of <b>PowerHouse</b><br>
 
 <p>
 <a href="https://github.com/sanjeev7007/power-builder-skills"><b>sanjeev7007/power-builder-skills</b></a><br>
-Free Claude skills for students, startups and innovators: from idea to pitch.
+Free AI skills for students, startups and innovators: from idea to pitch.
 </p>
 
-- **Power Idea Generator:** paste any problem and a 5-advisor council brainstorms, scores and cuts ideas, then hands you the **top 3 worth building** with build plans.
-- One Markdown file per skill. No code, no API keys, works on the **Claude Free plan**.
+- **Power Idea Generator:** paste a problem statement and a **Power Squad of 5 AI agents** pitches, battles, upgrades and votes, then hands you the **one idea worth building** with a build plan for your hackathon, startup or college project.
+- One Markdown file per skill. No code, no API keys. Works in **Claude** and **Gemini**.
 
 👉 [**Get the skills**](https://github.com/sanjeev7007/power-builder-skills)
 
